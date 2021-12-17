@@ -24,7 +24,7 @@ by Shu Huang, Stephen B. Broomell, and Russell Golman.
 ## 2empirical_analysis
 1. The file "EmpiricalAnalysis_inf.R" contains the sample code for analyzing the inflation rate forecasts from ECB SPF by using the data file "inf_filtered.csv". 
 2. The file "EmpiricalAnalysis_unemp.R" contains the sample code for analyzing the unemployment rate forecasts from ECB SPF by using the data file "unemp_filtered.csv".
-3. The file "EmpiricalAnalysis_cases.R" contains the sample code for analyzing the covid-19 new cases forecasts from CDC US by using the data file "all_data_case_county.csv".
+3. The file "EmpiricalAnalysis_cases.R" contains the sample code for analyzing the covid-19 new cases forecasts from CDC US by using the data file "all_data_case_county.csv". The file "all_data_case_county.csv" is too large to upload on Github. Please contact the author for requesting the dataset if necessary. 
 4. The file "EmpiricalAnalysis_deaths.R" contains the sample code for analyzing the covid-19 cumulative deaths forecasts from CDC US by using the data file "all_data_death.csv".
 5. The file "EmpiricalAnalysis_keck.R" contains the sample code for analyzing the experimental data from Keck and Tang (2020) by using the data file "KeckDataStudy1".
 6. The series of files titled with "res_" record all empirical analysis results. Those results include the p-values and out-of-sample MSEs for the OW and CWM weighting methods for each given sample size. 
